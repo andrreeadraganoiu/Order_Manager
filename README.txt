@@ -1,7 +1,7 @@
 335CB Draganoiu Andreea
 
-	Rezolvarea incepe in fisierul Tema2.java unde se primesc ca argumente pentru 
-main directorul fisierelor de intrare si numarul de tread-uri. Se pornesc P thread-uri
+	Rezolvarea incepe in fisierul Tema2.java unde se primesc ca argumente in terminal
+directorul fisierelor de intrare si numarul de tread-uri. Se pornesc P thread-uri
 care citesc cate o linie din orders.txt, fiecare linie reprezentand o comanda.
 	
 	Order.java - se citeste o comanda cu un thread, iar pentru fiecare comanda
